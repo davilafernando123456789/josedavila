@@ -1,0 +1,139 @@
+{
+    "title": "Jose Davila | Portafolio",
+    "description": "Desarrollador de Software con experiencia en multiples lenguajes y frameworks.",
+    "image": "/avatar.jpg",
+    "avatar": "/avatar.jpg",
+    "name": "Jose Fernando Davila Bravo",
+    "skill": "Desarrollador Fullstack",
+    "location": "Santa Anita, Lima",
+    "media": {
+        "email": "jose.davila.b@tecsup.edu.pe",
+        "cv": "/data/cv.pdf",
+        "github": "https://github.com/davilafernando123456789",
+        "likedin": "https://www.linkedin.com/in/davila-bravo-5a90a6278"
+    },
+    "about": "Soy un desarrollador fullstack apasionado con experiencia. Combino creatividad y habilidades tecnicas para resolver problemas complejos y crear soluciones innovadoras. Siempre busco nuevos desafios y oportunidades para aprender y crecer en el campo de la tecnologia.",
+    "technologies": [
+        {
+            "icon": "code",
+            "name": ".Net"
+        },
+        {
+            "icon": "coffee",
+            "name": "Java"
+        },
+        {
+            "icon": "server",
+            "name": "Node.js"
+        },
+        {
+            "icon": "box",
+            "name": "Angular"
+        },
+        {
+            "icon": "database",
+            "name": "MySQL"
+        },
+        {
+            "icon": "database",
+            "name": "Oracle"
+        },
+        {
+            "icon": "cloud",
+            "name": "AWS"
+        }
+    ],
+    "experience": [
+        {
+            "icon": "briefcase",
+            "title": "TSN-CLOUD",
+            "subtitle": "Programador",
+            "description": "Desarrollo de aplicaciones de software robustas y eficientes. Creacion de formularios y plataformas de aprendizaje en linea de alta calidad. Implementacion y mejora de soluciones de comercio electronico para impulsar las ventas y mejorar la experiencia del usuario.",
+            "date": "Noviembre 2023 - Marzo 2024"
+        },
+        {
+            "icon": "briefcase",
+            "title": "TS-NEGOCIOS",
+            "subtitle": "Practicante de programacion",
+            "description": "Desarrollo de soluciones web innovadoras y escalables, optimizando la eficiencia operativa. Colaboracion en proyectos de migracion a la nube, mejorando la accesibilidad y la disponibilidad de servicios.",
+            "date": "Julio 2023 - Septiembre 2023"
+        },
+        {
+            "icon": "lightbulb",
+            "title": "JORENIAN-COBULLYTEC (Hackathon 2022)",
+            "subtitle": "Participante",
+            "description": "Creacion de una pagina web para asistir casos de bullying en las instituciones educativas.",
+            "date": "2022"
+        }
+    ],
+    "projects": [
+        {
+            "icon": "code",
+            "title": "Plataforma de Aprendizaje",
+            "subtitle": "Desarrollo para TSN-CLOUD",
+            "description": "Creacion de una plataforma de aprendizaje en linea para mejorar la calidad de la educacion y facilitar el acceso a recursos educativos.",
+            "technologies": [
+                {
+                    "icon": "server",
+                    "name": "Node.js"
+                },
+                {
+                    "icon": "box",
+                    "name": "Angular"
+                }
+            ],
+            "image": "/project_1.jpg",
+            "url": "#",
+            "github": "https://github.com/davilafernando123456789"
+        },
+        {
+            "icon": "shopping-bag",
+            "title": "E-commerce Solution",
+            "subtitle": "Proyecto para TSN-CLOUD",
+            "description": "Implementacion y mejora de una solucion de comercio electronico para impulsar las ventas y mejorar la experiencia del usuario.",
+            "technologies": [
+                {
+                    "icon": "coffee",
+                    "name": "Java"
+                },
+                {
+                    "icon": "spring",
+                    "name": "Spring"
+                }
+            ],
+            "image": "/project_2.jpg",
+            "url": "#",
+            "github": "https://github.com/davilafernando123456789"
+        }
+    ],
+    "training": [
+        {
+            "icon": "graduation-cap",
+            "title": "TECSUP",
+            "subtitle": "Diseno y Desarrollo de Software",
+            "description": "Aprendi fundamentos solidos de programacion y desarrollo de software, con un enfoque en tecnologias modernas y practicas.",
+            "date": "2021 - 2024",
+            "certificate": "#"
+        }
+    ],
+    "extras": [
+        {
+            "image": "/extra_1.jpg",
+            "title": "Tech Conf 2023",
+            "description": "Participacion en Tech Conf 2023, una conferencia sobre tecnologia y desarrollo de software.",
+            "url": "#"
+        },
+        {
+            "image": "/extra_2.jpg",
+            "title": "Certificacion en Excel Avanzado",
+            "description": "Nivel avanzado de Excel obtenido en TECSUP en 2022.",
+            "url": "#"
+        },
+        {
+            "image": "/extra_3.jpg",
+            "title": "Certificacion en Bases de Datos",
+            "description": "Nivel intermedio de bases de datos obtenido en TECSUP en 2022.",
+            "url": "#"
+        }
+    ]
+}
