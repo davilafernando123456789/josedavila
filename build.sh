@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 
 # Mostrar la versión de Node.js
 echo "Node version: $(node -v)"
