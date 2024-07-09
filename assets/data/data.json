@@ -1,139 +1,249 @@
 {
     "title": "Jose Davila | Portafolio",
-    "description": "Desarrollador de Software con experiencia en multiples lenguajes y frameworks.",
+    "description": "Desarrollador de Software con experiencia en múltiples lenguajes y frameworks.",
     "image": "/avatar.jpg",
     "avatar": "/avatar.jpg",
     "name": "Jose Fernando Davila Bravo",
     "skill": "Desarrollador Fullstack",
     "location": "Santa Anita, Lima",
     "media": {
-        "email": "jose.davila.b@tecsup.edu.pe",
-        "cv": "/data/cv.pdf",
-        "github": "https://github.com/davilafernando123456789",
-        "likedin": "https://www.linkedin.com/in/davila-bravo-5a90a6278"
+    "email": "jose.davila.b@tecsup.edu.pe",
+    "cv": "/data/cv.pdf",
+    "github": "https://github.com/davilafernando123456789",
+    "likedin": "https://www.linkedin.com/in/davila-bravo-5a90a6278"
     },
-    "about": "Soy un desarrollador fullstack apasionado con experiencia. Combino creatividad y habilidades tecnicas para resolver problemas complejos y crear soluciones innovadoras. Siempre busco nuevos desafios y oportunidades para aprender y crecer en el campo de la tecnologia.",
+    "about": "Soy un desarrollador fullstack apasionado con experiencia. Combino creatividad y habilidades técnicas para resolver problemas complejos y crear soluciones innovadoras. Siempre busco nuevos desafíos y oportunidades para aprender y crecer en el campo de la tecnología.",
     "technologies": [
-        {
-            "icon": "code",
-            "name": ".Net"
-        },
-        {
-            "icon": "coffee",
-            "name": "Java"
-        },
-        {
-            "icon": "server",
-            "name": "Node.js"
-        },
-        {
-            "icon": "box",
-            "name": "Angular"
-        },
-        {
-            "icon": "database",
-            "name": "MySQL"
-        },
-        {
-            "icon": "database",
-            "name": "Oracle"
-        },
-        {
-            "icon": "cloud",
-            "name": "AWS"
-        }
+    {
+    "icon": "code",
+    "name": ".Net"
+    },
+    {
+    "icon": "coffee",
+    "name": "Java"
+    },
+    {
+    "icon": "server",
+    "name": "Node.js"
+    },
+    {
+    "icon": "box",
+    "name": "Angular"
+    },
+    {
+    "icon": "database",
+    "name": "MySQL"
+    },
+    {
+    "icon": "database",
+    "name": "Oracle"
+    },
+    {
+    "icon": "cloud",
+    "name": "AWS"
+    }
     ],
     "experience": [
-        {
-            "icon": "briefcase",
-            "title": "TSN-CLOUD",
-            "subtitle": "Programador",
-            "description": "Desarrollo de aplicaciones de software robustas y eficientes. Creacion de formularios y plataformas de aprendizaje en linea de alta calidad. Implementacion y mejora de soluciones de comercio electronico para impulsar las ventas y mejorar la experiencia del usuario.",
-            "date": "Noviembre 2023 - Marzo 2024"
-        },
-        {
-            "icon": "briefcase",
-            "title": "TS-NEGOCIOS",
-            "subtitle": "Practicante de programacion",
-            "description": "Desarrollo de soluciones web innovadoras y escalables, optimizando la eficiencia operativa. Colaboracion en proyectos de migracion a la nube, mejorando la accesibilidad y la disponibilidad de servicios.",
-            "date": "Julio 2023 - Septiembre 2023"
-        },
-        {
-            "icon": "lightbulb",
-            "title": "JORENIAN-COBULLYTEC (Hackathon 2022)",
-            "subtitle": "Participante",
-            "description": "Creacion de una pagina web para asistir casos de bullying en las instituciones educativas.",
-            "date": "2022"
-        }
+    {
+    "icon": "briefcase",
+    "title": "TSN-CLOUD",
+    "subtitle": "Programador",
+    "description": "Desarrollo de aplicaciones de software robustas y eficientes. Creación de formularios y plataformas de aprendizaje en línea de alta calidad. Implementación y mejora de soluciones de comercio electrónico para impulsar las ventas y mejorar la experiencia del usuario.",
+    "date": "Noviembre 2023 - Marzo 2024"
+    },
+    {
+    "icon": "briefcase",
+    "title": "TS-NEGOCIOS",
+    "subtitle": "Practicante de programación",
+    "description": "Desarrollo de soluciones web innovadoras y escalables, optimizando la eficiencia operativa. Colaboración en proyectos de migración a la nube, mejorando la accesibilidad y la disponibilidad de servicios.",
+    "date": "Julio 2023 - Septiembre 2023"
+    },
+    {
+    "icon": "lightbulb",
+    "title": "JORENIAN-COBULLYTEC (Hackathon 2022)",
+    "subtitle": "Participante",
+    "description": "Creación de una página web para asistir casos de bullying en las instituciones educativas.",
+    "date": "2022"
+    }
     ],
     "projects": [
-        {
-            "icon": "code",
-            "title": "Plataforma de Aprendizaje",
-            "subtitle": "Desarrollo para TSN-CLOUD",
-            "description": "Creacion de una plataforma de aprendizaje en linea para mejorar la calidad de la educacion y facilitar el acceso a recursos educativos.",
-            "technologies": [
-                {
-                    "icon": "server",
-                    "name": "Node.js"
-                },
-                {
-                    "icon": "box",
-                    "name": "Angular"
-                }
-            ],
-            "image": "/project_1.jpg",
-            "url": "#",
-            "github": "https://github.com/davilafernando123456789"
-        },
-        {
-            "icon": "shopping-bag",
-            "title": "E-commerce Solution",
-            "subtitle": "Proyecto para TSN-CLOUD",
-            "description": "Implementacion y mejora de una solucion de comercio electronico para impulsar las ventas y mejorar la experiencia del usuario.",
-            "technologies": [
-                {
-                    "icon": "coffee",
-                    "name": "Java"
-                },
-                {
-                    "icon": "spring",
-                    "name": "Spring"
-                }
-            ],
-            "image": "/project_2.jpg",
-            "url": "#",
-            "github": "https://github.com/davilafernando123456789"
-        }
+    {
+    "icon": "code",
+    "title": "Plataforma de Aprendizaje",
+    "subtitle": "Desarrollo para TSN-CLOUD",
+    "description": "Creación de una plataforma de aprendizaje en línea para mejorar la calidad de la educación y facilitar el acceso a recursos educativos.",
+    "technologies": [
+    {
+    "icon": "server",
+    "name": "Node.js"
+    },
+    {
+    "icon": "box",
+    "name": "Angular"
+    }
+    ],
+    "image": "/project_1.jpg",
+    "url": "#",
+    "github": "https://github.com/davilafernando123456789"
+    },
+    {
+    "icon": "shopping-bag",
+    "title": "E-commerce Solution",
+    "subtitle": "Proyecto para TSN-CLOUD",
+    "description": "Implementación y mejora de una solución de comercio electrónico para impulsar las ventas y mejorar la experiencia del usuario.",
+    "technologies": [
+    {
+    "icon": "coffee",
+    "name": "Java"
+    },
+    {
+    "icon": "spring",
+    "name": "Spring"
+    }
+    ],
+    "image": "/project_2.jpg",
+    "url": "#",
+    "github": "https://github.com/davilafernando123456789"
+    },
+    {
+    "icon": "code",
+    "title": "GUIDO Frontend",
+    "subtitle": "Startup para plataformas de tutorías en línea",
+    "description": "Desarrollo del frontend en Angular para la plataforma de tutorías en línea GUIDO.",
+    "technologies": [
+    {
+    "icon": "box",
+    "name": "Angular"
+    }
+    ],
+    "image": "/project_3.jpg",
+    "url": "https://github.com/davilafernando123456789/GUIDO-FRONTEND",
+    "github": "https://github.com/davilafernando123456789/GUIDO-FRONTEND"
+    },
+    {
+    "icon": "server",
+    "title": "GUIDO Backend",
+    "subtitle": "Backend de la startup GUIDO",
+    "description": "Desarrollo del backend en Node.js y Express para la plataforma de tutorías en línea GUIDO.",
+    "technologies": [
+    {
+    "icon": "server",
+    "name": "Node.js"
+    },
+    {
+    "icon": "nodejs",
+    "name": "Express"
+    }
+    ],
+    "image": "/project_4.jpg",
+    "url": "https://github.com/davilafernando123456789/GUIDO-BACKEND",
+    "github": "https://github.com/davilafernando123456789/GUIDO-BACKEND"
+    },
+    {
+    "icon": "code",
+    "title": "API .NET CRUD",
+    "subtitle": "API en .NET CRUD",
+    "description": "Desarrollo de una API en .NET con ASP.NET Core para operaciones CRUD con tokenización.",
+    "technologies": [
+    {
+    "icon": "code",
+    "name": ".NET"
+    },
+    {
+    "icon": "database",
+    "name": "SQL Server"
+    }
+    ],
+    "image": "/project_5.jpg",
+    "url": "https://github.com/davilafernando123456789/ApiNetCrud",
+    "github": "https://github.com/davilafernando123456789/ApiNetCrud"
+    },
+    {
+    "icon": "shopping-cart",
+    "title": "Sistema de Ventas",
+    "subtitle": "Aplicación en Java",
+    "description": "Desarrollo de un sistema de ventas completo en Java con MySQL, incluyendo reportes y gestión de stock.",
+    "technologies": [
+    {
+    "icon": "coffee",
+    "name": "Java"
+    },
+    {
+    "icon": "database",
+    "name": "MySQL"
+    }
+    ],
+    "image": "/project_6.jpg",
+    "url": "https://github.com/davilafernando123456789/SistemadeVentasJava",
+    "github": "https://github.com/davilafernando123456789/SistemadeVentasJava"
+    },
+    {
+    "icon": "calculator",
+    "title": "FormuMath",
+    "subtitle": "Aplicación para fórmulas matemáticas",
+    "description": "Aplicación en Android Studio para gestionar y resolver fórmulas matemáticas.",
+    "technologies": [
+    {
+    "icon": "android",
+    "name": "Android"
+    },
+    {
+    "icon": "kotlin",
+    "name": "Kotlin"
+    }
+    ],
+    "image": "/project_7.jpg",
+    "url": "https://github.com/davilafernando123456789/FORMUMATH",
+    "github": "https://github.com/davilafernando123456789/FORMUMATH"
+    },
+    {
+    "icon": "heart",
+    "title": "PokeTinder",
+    "subtitle": "Aplicación de citas para Pokémon",
+    "description": "Aplicación en Android Studio para encontrar parejas Pokémon.",
+    "technologies": [
+    {
+    "icon": "android",
+    "name": "Android"
+    },
+    {
+    "icon": "kotlin",
+    "name": "Kotlin"
+    }
+    ],
+    "image": "/project_8.jpg",
+    "url": "https://github.com/davilafernando123456789/PokeTinderKotlin",
+    "github": "https://github.com/davilafernando123456789/PokeTinderKotlin"
+    }
     ],
     "training": [
-        {
-            "icon": "graduation-cap",
-            "title": "TECSUP",
-            "subtitle": "Diseno y Desarrollo de Software",
-            "description": "Aprendi fundamentos solidos de programacion y desarrollo de software, con un enfoque en tecnologias modernas y practicas.",
-            "date": "2021 - 2024",
-            "certificate": "#"
-        }
+    {
+    "icon": "graduation-cap",
+    "title": "TECSUP",
+    "subtitle": "Diseño y Desarrollo de Software",
+    "description": "Aprendí fundamentos sólidos de programación y desarrollo de software, con un enfoque en tecnologías modernas y prácticas.",
+    "date": "2021 - 2024",
+    "certificate": "#"
+    }
     ],
     "extras": [
-        {
-            "image": "/extra_1.jpg",
-            "title": "Tech Conf 2023",
-            "description": "Participacion en Tech Conf 2023, una conferencia sobre tecnologia y desarrollo de software.",
-            "url": "#"
-        },
-        {
-            "image": "/extra_2.jpg",
-            "title": "Certificacion en Excel Avanzado",
-            "description": "Nivel avanzado de Excel obtenido en TECSUP en 2022.",
-            "url": "#"
-        },
-        {
-            "image": "/extra_3.jpg",
-            "title": "Certificacion en Bases de Datos",
-            "description": "Nivel intermedio de bases de datos obtenido en TECSUP en 2022.",
-            "url": "#"
-        }
+    {
+    "image": "/extra_1.jpg",
+    "title": "Tech Conf 2023",
+    "description": "Participación en Tech Conf 2023, una conferencia sobre tecnología y desarrollo de software.",
+    "url": "#"
+    },
+    {
+    "image": "/extra_2.jpg",
+    "title": "Certificación en Excel Avanzado",
+    "description": "Nivel avanzado de Excel obtenido en TECSUP en 2022.",
+    "url": "#"
+    },
+    {
+    "image": "/extra_3.jpg",
+    "title": "Certificación en Bases de Datos",
+    "description": "Nivel intermedio de bases de datos obtenido en TECSUP en 2022.",
+    "url": "#"
+    }
     ]
-}
+    }

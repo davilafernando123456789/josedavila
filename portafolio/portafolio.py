@@ -10,7 +10,6 @@ from portafolio.views.tech_stack import tech_stack
 
 DATA = data.data
 
-
 def index() -> rx.Component:
     return rx.center(
         # rx.theme_panel(),
@@ -32,7 +31,6 @@ def index() -> rx.Component:
             width="100%"
         )
     )
-
 
 app = rx.App(
     stylesheets=STYLESHEETS,
@@ -56,6 +54,7 @@ app.add_page(
     meta=[
         {"name": "og:title", "content": title},
         {"name": "og:description", "content": description},
-        {"name": "og:image", "content": image}
+        {"name": "og:image", "content": image},
+        {"charset": "UTF-8"}  # Asegura que la codificación sea UTF-8
     ]
 )
