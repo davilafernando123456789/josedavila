@@ -67,25 +67,7 @@
     }
     ],
     "projects": [
-    {
-    "icon": "code",
-    "title": "Plataforma de Aprendizaje",
-    "subtitle": "Desarrollo para TSN-CLOUD",
-    "description": "Creación de una plataforma de aprendizaje en línea para mejorar la calidad de la educación y facilitar el acceso a recursos educativos.",
-    "technologies": [
-    {
-    "icon": "server",
-    "name": "Node.js"
-    },
-    {
-    "icon": "box",
-    "name": "Angular"
-    }
-    ],
-    "image": "/project_1.jpg",
-    "url": "#",
-    "github": "https://github.com/davilafernando123456789"
-    },
+   
     {
     "icon": "shopping-bag",
     "title": "E-commerce Solution",
